@@ -13,3 +13,12 @@ Se trabajará en Unity y se exportará a WegGL.
 Nos queremos basar en la siguiente imagen.
 
 ![alt text](https://github.com/JoaquinVila13/graficas-computacionales/blob/4158f1a7db4e79fb7b43ac4895287981a6039cf5/imagenes/WhatsApp%20Image%202021-07-19%20at%2019.11.25.jpeg)
+
+Segunda Entrega
+
+![alt text](https://github.com/JoaquinVila13/graficas-computacionales/blob/main/segunda%20entrega/captura.png)
+
+
+Tercera Entrega
+
+![alt text](https://github.com/JoaquinVila13/graficas-computacionales/blob/main/entrega3/Captura.png)
